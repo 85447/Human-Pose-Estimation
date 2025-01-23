@@ -25,12 +25,12 @@ This repository provides implementation for Human Pose Estimation that predicts 
 Following are a ***few human poses*** predicted by the model:-
 | Test Image        | Generated Keypoint Skeleton           |
 | ------------------- |:----------------------------:|
-| <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImages/sample.jpg" height="495"> | <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/pic1.pdf" height="495"> |
-| <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImages/sample2.jpg" width="320"> | <img src="[https://github.com/Zafar05091/HUMAN_POSE_ESTIMATION_USING_MACHINE_LEARNING/blob/main/Sample%20Images/sample2_result.png](https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/pic2.pdf)" width="320"> |
+| <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImages/sample.jpg" height="495"> | <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/P4.png" height="495"> |
+| <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImages/sample2.jpg" width="320"> | <img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/P5.png" width="320"> |
 <!-- | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="320"> | a man is performing on a stage | -->
 <!-- | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample.jpg) | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample_result.webp) |
 | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2.jpg) | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2_result.webp" height="395"> |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="320"> | a man is performing on a stage | -->
 - SOME WEB CAM GENERATED KEYPOINT SKELETON
-<img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/pic3.pdf" height="495">
+<img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/P3.png" height="495">
 
